@@ -1,0 +1,11 @@
+{
+  "name": "test-check-deprecated",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dword-design/test-check-deprecated.git",
+  "author": "\"foo\" <\"foo@bar.de\">",
+  "license": "MIT",
+  "dependencies": {
+    "deploy-node-module": "^1.0.4"
+  }
+}
